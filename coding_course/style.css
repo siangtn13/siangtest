@@ -1,0 +1,23 @@
+body {
+  color: blue;
+  background-color: black;
+  font-family: fantasy;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 5;
+}
+
+.intro {
+  color: purple;
+  font-size: 11;
+}
+
+.footnote {
+  text-align: center;
+}
